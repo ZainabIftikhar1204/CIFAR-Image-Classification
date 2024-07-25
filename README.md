@@ -10,6 +10,10 @@ This project includes a custom CNN trained on the popular CIFAR dataset containi
 > ❗ Please note that this app was deployed on 25th July, 2024 on around 4:00pm using Gradio. Therefore, it will only stay hosted for 72 hours i.e. until **4:00pm on 28th July, 2024**. In order to access the application after that time, please follow the instructions mentioned in *How to Run Locally* section.
 
 
+## Demo:
+For video demonstartion, check out the following link: [DEMO](https://drive.google.com/file/d/1yu4VT9mn1NycYYtXs0hjsriwcIZOlmTN)
+
+
 ## Model Architecture
 The CNN model designed for this project follows the following architecture:
 
