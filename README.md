@@ -3,7 +3,7 @@
 ## Description
 This project includes a custom CNN trained on the popular CIFAR dataset containing 10 classes of images. The model was then used to create a basic Image Classification web app using Gradio. The app can be accessed via the following link for playaround:
 
-[CIFAR Classification Model](https://ad0178ad51fdef24ea.gradio.live/)
+[CIFAR Classification Model](https://b4cc243d0be93460dc.gradio.live/)
 
 
 
